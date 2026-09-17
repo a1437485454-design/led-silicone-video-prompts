@@ -1,0 +1,4 @@
+interface:
+  display_name: "灯具硅凝胶视频提示词"
+  short_description: "根据硅凝胶文案生成LED防爆灯和户外灯实验分镜及视频提示词"
+  default_prompt: "使用 $led-silicone-video-prompts，根据我提供的灯具图片、口播文案和视频时长，生成可直接复制的视频提示词。"
